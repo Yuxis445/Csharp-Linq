@@ -1,0 +1,15 @@
+C:\LeanWork\CollatzMaiorSequencia\bin\Debug\net6.0\CollatzMaiorSequencia.exe
+C:\LeanWork\CollatzMaiorSequencia\bin\Debug\net6.0\CollatzMaiorSequencia.deps.json
+C:\LeanWork\CollatzMaiorSequencia\bin\Debug\net6.0\CollatzMaiorSequencia.runtimeconfig.json
+C:\LeanWork\CollatzMaiorSequencia\bin\Debug\net6.0\CollatzMaiorSequencia.dll
+C:\LeanWork\CollatzMaiorSequencia\bin\Debug\net6.0\ref\CollatzMaiorSequencia.dll
+C:\LeanWork\CollatzMaiorSequencia\bin\Debug\net6.0\CollatzMaiorSequencia.pdb
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\CollatzMaiorSequencia.csproj.AssemblyReference.cache
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\CollatzMaiorSequencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\CollatzMaiorSequencia.AssemblyInfoInputs.cache
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\CollatzMaiorSequencia.AssemblyInfo.cs
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\CollatzMaiorSequencia.csproj.CoreCompileInputs.cache
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\CollatzMaiorSequencia.dll
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\ref\CollatzMaiorSequencia.dll
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\CollatzMaiorSequencia.pdb
+C:\LeanWork\CollatzMaiorSequencia\obj\Debug\net6.0\CollatzMaiorSequencia.genruntimeconfig.cache

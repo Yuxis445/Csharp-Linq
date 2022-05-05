@@ -1,0 +1,15 @@
+C:\LeanWork\ArrayFilter\bin\Debug\net6.0\ArrayFilter.exe
+C:\LeanWork\ArrayFilter\bin\Debug\net6.0\ArrayFilter.deps.json
+C:\LeanWork\ArrayFilter\bin\Debug\net6.0\ArrayFilter.runtimeconfig.json
+C:\LeanWork\ArrayFilter\bin\Debug\net6.0\ArrayFilter.dll
+C:\LeanWork\ArrayFilter\bin\Debug\net6.0\ref\ArrayFilter.dll
+C:\LeanWork\ArrayFilter\bin\Debug\net6.0\ArrayFilter.pdb
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ArrayFilter.csproj.AssemblyReference.cache
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ArrayFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ArrayFilter.AssemblyInfoInputs.cache
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ArrayFilter.AssemblyInfo.cs
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ArrayFilter.csproj.CoreCompileInputs.cache
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ArrayFilter.dll
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ref\ArrayFilter.dll
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ArrayFilter.pdb
+C:\LeanWork\ArrayFilter\obj\Debug\net6.0\ArrayFilter.genruntimeconfig.cache

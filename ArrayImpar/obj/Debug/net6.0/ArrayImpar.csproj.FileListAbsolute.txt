@@ -1,0 +1,15 @@
+C:\LeanWork\ArrayImpar\bin\Debug\net6.0\ArrayImpar.exe
+C:\LeanWork\ArrayImpar\bin\Debug\net6.0\ArrayImpar.deps.json
+C:\LeanWork\ArrayImpar\bin\Debug\net6.0\ArrayImpar.runtimeconfig.json
+C:\LeanWork\ArrayImpar\bin\Debug\net6.0\ArrayImpar.dll
+C:\LeanWork\ArrayImpar\bin\Debug\net6.0\ref\ArrayImpar.dll
+C:\LeanWork\ArrayImpar\bin\Debug\net6.0\ArrayImpar.pdb
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ArrayImpar.csproj.AssemblyReference.cache
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ArrayImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ArrayImpar.AssemblyInfoInputs.cache
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ArrayImpar.AssemblyInfo.cs
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ArrayImpar.csproj.CoreCompileInputs.cache
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ArrayImpar.dll
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ref\ArrayImpar.dll
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ArrayImpar.pdb
+C:\LeanWork\ArrayImpar\obj\Debug\net6.0\ArrayImpar.genruntimeconfig.cache
